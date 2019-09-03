@@ -14,7 +14,7 @@
     <name>OPS4J Pax Shiro Parent POM</name>
 
     <properties>
-        <apache.shiro.version>1.2.2</apache.shiro.version>
+        <apache.shiro.version>1.4.1</apache.shiro.version>
         <logback.version>1.0.11</logback.version>
         <jetty.version>8.1.12.v20130726</jetty.version>
         <ops4j.base.version>1.4.0</ops4j.base.version>
